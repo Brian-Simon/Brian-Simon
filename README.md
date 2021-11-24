@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brian-Simon.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
 
-### Unique Views
+<!-- ### Unique Views -->
 
 <!-- [![Image of https://github.com/Brian-Simon/brian-views-counter](https://github.com/Brian-Simon/brian-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Brian-Simon/brian-views-counter)
  -->
