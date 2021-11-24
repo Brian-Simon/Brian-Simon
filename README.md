@@ -83,11 +83,11 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brian-Simon&repo=Brian-Simon&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon&show_owner=true&count_private=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Simon&layout=compact&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
- -->
-<!-- [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
- -->
-<!-- [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Simon&layout=compact&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
+
+[![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bransin&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
+
+[![wakatime](https://wakatime.com/badge/user/3a5340cd-76bf-48cf-9306-7bac09e0d240.svg)](https://wakatime.com/@3a5340cd-76bf-48cf-9306-7bac09e0d240)
 
 ### Profile Visit
 
