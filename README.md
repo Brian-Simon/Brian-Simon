@@ -1,6 +1,5 @@
-## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I am Brian
 
-- 👋 Hi, I’m @Brian-Simon
 - 👀 I’m interested in Web development...
 - 🌱 I’m currently working as a Fullstack Web developer...
 - 💞️ I’m looking to collaborate on cool and thriving projects...
@@ -14,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Contact Me</h2>
 <p align='center'>
-  <a href="https://www.linkedin.com/in//">
+  <a href="https://www.linkedin.com/in/brian-simon-4b7104226/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
@@ -23,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 <h1>
 <details> -->
 <!--   <summary>Skills</summary> -->
-<h2> - Skills</h2>
+<h2> - Skills
+</h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
