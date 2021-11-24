@@ -77,12 +77,12 @@ You can click the Preview link to take a look at your changes.
 
 <!--### Github Stats-->
 
-<!-- ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-Simon&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
- -->
-<!--### Github extra pins-->
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-Simon&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brian-Simon&repo=Brian-Simon&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon&show_owner=true&count_private=true)
- -->
+### Github extra pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brian-Simon&repo=Brian-Simon&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon&show_owner=true&count_private=true)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Simon&layout=compact&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
  -->
 <!-- [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
