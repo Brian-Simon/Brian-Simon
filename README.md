@@ -74,17 +74,17 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Simon&layout=compact&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
 
-
+<!-- 
 [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bransin&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
-
-[![wakatime](https://wakatime.com/badge/user/3a5340cd-76bf-48cf-9306-7bac09e0d240.svg)](https://wakatime.com/@3a5340cd-76bf-48cf-9306-7bac09e0d240)
-
+ -->
+<!-- [![wakatime](https://wakatime.com/badge/user/3a5340cd-76bf-48cf-9306-7bac09e0d240.svg)](https://wakatime.com/@3a5340cd-76bf-48cf-9306-7bac09e0d240) -->
+<!-- 
 ### Profile Visit
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Brian-Simon.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Brian-Simon.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933) -->
+<!-- 
 ### Unique Views
 
-[![Image of https://github.com/Brian-Simon/brian-views-counter](https://github.com/Brian-Simon/brian-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Brian-Simon/brian-views-counter)
+[![Image of https://github.com/Brian-Simon/brian-views-counter](https://github.com/Brian-Simon/brian-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Brian-Simon/brian-views-counter) -->
 
 Leave a star as you leave
