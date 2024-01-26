@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <h2> - Skills
 </h2>
 
-
+<!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![APACHE](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!-- </details> -->
 <!-- </h1> -->
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 &nbsp;
 <br /> -->
-
+<!--
 ### 🏆 <!--My Trophies-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brian-Simon&theme=onedark&no-bg=false&count_private=true)](https://github.com/Brian-Simon/Brian-Simon)
@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brian-Simon&repo=Brian-Simon&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon&show_owner=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Simon&layout=compact&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
-
+-->
 <!-- 
 [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bransin&theme=dark&title_color=009933)](https://github.com/Brian-Simon/Brian-Simon)
  -->
