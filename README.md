@@ -1,6 +1,6 @@
 ## Hi, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="50px"> I am Brian
 
-- 👀 Hello I do Software development.
+- ☺️ I am into Software development!
 - 🌱 Currently working as a Fullstack Web developer.
 
 <!---
